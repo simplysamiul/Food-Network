@@ -250,3 +250,29 @@ button{
     border: none;
     
 }
+/* Footer Area */
+footer{
+    background: black;
+    height:300px;
+    text-align: center;
+}
+footer span{
+    color:#FBA24F;
+}
+footer h1{
+    padding:30px;
+    color: #575757;
+}
+footer h3{
+    color:#999999;
+    margin-bottom: 20px;
+}
+footer marquee{
+    color: white;
+    font-size:18px;
+    font-weight:600;
+    letter-spacing: 0.2em;
+    border-top: 2px solid gray;
+    margin-top:100px;
+    padding-top:10px;
+}
