@@ -54,7 +54,7 @@ header{
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
-    margin-bottom: 200px;
+    margin-bottom: 100px;
     box-sizing: border-box;
     padding:30px 50px 50px 70px;
 }
@@ -94,4 +94,51 @@ header{
     box-shadow: 5px 5px 20px #370aff9c;
     letter-spacing: 0.2em;
 }
-
+/* Recipies area */
+.recipie-section{
+    margin-bottom: 100px;
+}
+.recepie-header{
+  width:60%;
+  margin: 0 auto;
+}
+.recepie-header h1{
+    text-align:center;
+    margin-bottom: 25px;
+    color: #676767;
+}
+.recepie-header p{
+    text-align: center;
+    margin-bottom: 20px;
+}
+.recipies-card{
+    display: flex;
+    justify-content:center;
+    margin:50px 100px 20px 100px;
+}
+.food-card{
+    width:30%;
+    box-sizing: border-box;
+   box-shadow: 0 0 20px 10px lightgrey;
+   border-radius:30px;
+    text-align:center;
+    border-radius: 20px;
+    margin-left: 5%;
+}
+.food-card img{
+    width:100%;
+    border-radius:20px;
+    
+}
+.card-img{
+    padding:15px 15px 25px 15px;
+    
+}
+.food-card h1{
+    color:#575757;
+    margin-bottom: 20px;
+}
+.food-card p{
+    padding:10px 15px;
+    margin-bottom:20px;
+}
