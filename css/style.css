@@ -248,6 +248,7 @@ button{
     border-radius: 50px;
     text-align: center;
     border: none;
+    cursor:pointer;
     
 }
 /* Footer Area */
