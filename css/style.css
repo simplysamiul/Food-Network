@@ -6,15 +6,15 @@
 /* Header section */
 header{
     display: flex;
-    margin:20px 50px 50px 70px;
+    margin:20px 50px 100px 70px;
 }
 .header-text{
     width: 50%;
-    margin-top:120px;
-    padding-top:100px;
+    margin-top:50px;
+    padding-top:80px;
 }
 .header-text h1{
-    font-size:60px;
+    font-size:50px;
     margin-bottom: 40px;
     color: #575757;
     line-height:5rem;
@@ -91,7 +91,7 @@ header{
     color: #ffff;
     font-weight: 600;
     font-size:20px;
-    box-shadow: 5px 5px 15px #370aff;
+    box-shadow: 5px 5px 20px #370aff9c;
     letter-spacing: 0.2em;
 }
 
